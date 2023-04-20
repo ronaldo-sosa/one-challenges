@@ -16,4 +16,5 @@ header{
 }
 .input{
     margin:0 75px;
+    display: block;
 }
