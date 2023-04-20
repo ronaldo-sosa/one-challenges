@@ -1,11 +1,16 @@
-.fondo{
+html{
     box-sizing: border-box;
     background-color: #cfe8ff;
+    font-family: "Gill Sans", sans-serif;
+
 }
 header{
     padding: 20px 10px;
-    font-family: "Gill Sans", sans-serif;
-    background-color: #cfe8ff;
 
+}
 
+.titulo{
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 1px 1px;
 }
