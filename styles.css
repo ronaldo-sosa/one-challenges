@@ -1,9 +1,9 @@
-html{
+.fondo{
     box-sizing: border-box;
     background-color: #cfe8ff;
 }
 header{
-    padding: 10px 10px;
+    padding: 20px 10px;
     font-family: "Gill Sans", sans-serif;
     background-color: #cfe8ff;
 
